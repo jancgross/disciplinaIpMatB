@@ -1,7 +1,7 @@
 # Introdução à Programação (IP) - Trabalho Final
 
 Prazo máximo para definir as equipes: 14/06/2023.  
-Prazo máximo para apresentação do trabalho (para o professor): 28/07/2023 (quarta).  
+Prazo máximo para apresentação do trabalho (para o professor): 27/06/2023 (terça).  
 Equipes: mínimo de dois, e máximo com três alunos.  
 
 ## Definições
